@@ -1,0 +1,13 @@
+.blog-post1 {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 50%;
+    padding: 10px;
+    margin: 10% 25%;
+    background-color: rgb(215, 221, 226);
+    word-spacing: 2px;
+    line-break: 2px;
+}
+h2 {
+    color: red;
+}
