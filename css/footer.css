@@ -1,0 +1,18 @@
+/* footer */
+footer {
+    grid-area: ft;
+    margin-top: 50px;
+}
+footer hr {
+    margin-bottom: 0px;
+}
+.footer {
+    font-family: 'sans-serif';
+    color: red;
+    padding: 10px;
+    background-color: lightgrey;
+    margin-top: 0;
+    height: 50px;
+    text-align: center;
+}
+/* footer */

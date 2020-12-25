@@ -1,0 +1,31 @@
+/* main */
+main {
+    grid-area: main;
+}
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 150);
+    grid-gap: 5px;
+}
+.card {
+    width: 250px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(233, 227, 227);
+    padding top: 5px;
+    text-align: center;
+    box-shadow: 5px 10px lightgray;
+    margin-bottom: 20px;
+}
+
+figcaption {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+}
+span {
+    text-decoration: underline;
+}
+/* main */
